@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthjain25&theme=nord"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -62,14 +54,19 @@
 </table>
 <!--- stats (end) -->
 
+<!--- Conribution Graph -->
+<div align="center">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthjain25&theme=nord"
+       alt="snake" /></a>
+</div>
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=siddharthjain25&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-
+<!--- trophy (end) -->
 
 </p>        
 <!--- stats (end) -->
