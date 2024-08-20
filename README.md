@@ -68,10 +68,12 @@
 </div>
 <!--- trophy (end) -->
 
+<div align=center>
+  <img align="center" width=100% src="https://raw.githubusercontent.com/siddharthjain25/siddharthjain25/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</div>
+
 </p>        
 <!--- stats (end) -->
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/siddharthjain25/siddharthjain25/output/github-contribution-grid-snake-dark.svg)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
