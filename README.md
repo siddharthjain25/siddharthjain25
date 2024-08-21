@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **AWS for Scalable and Serverless Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
