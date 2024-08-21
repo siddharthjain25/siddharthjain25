@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **AWS for Scalable and Serverless Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
 - 📝 I regularly write articles on [Thousand Winters Blog](https://thousand-winters-blog.onrender.com)
 
