@@ -24,7 +24,7 @@
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
-- 📝 I regularly write articles on [Thousand Winters Blog](https://thousand-winters-blog.onrender.com)
+- 📝 I regularly write articles on [Xspark Blog](https://xspark.live)
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
