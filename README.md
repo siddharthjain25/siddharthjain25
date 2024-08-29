@@ -84,7 +84,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,dynamodb,express,redis,github,html,java,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,vscode,mysql,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,dynamodb,express,github,html,java,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,vscode,mysql,ubuntu&perline=14" />
   </a>
 </p>
 
