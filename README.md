@@ -7,15 +7,10 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Siddharth</h1></summary>
   </ul>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is a part of recursion</h2></summary>
+    <h2 style="display: inline-block">Confusion is a part of recursion</h2>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
