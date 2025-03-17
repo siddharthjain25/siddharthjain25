@@ -19,11 +19,9 @@
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
-- 📝 I regularly write articles on [Xspark Blog](https://xspark.live)
-
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **siddharthjainj25@gmail.com**
+- 📫 Feel free to reach me out.
 <!--Intro end-->
 
 
