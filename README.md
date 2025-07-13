@@ -1,65 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Siddharth Jain</h1>
-<h3 align="center">A Passionate Computer Science Graduate & Software Developer from India</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Siddharth Jain</h1>
+<h3 align="center">🚀 Passionate Software Developer | 🎓 CSE Graduate | 🛡️ Cloud & Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+and+DevOps+Learner;Open+Source+Contributor;Lifelong+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 I recently graduated with a B.Tech in **Computer Science**
-- 💼 I enjoy working on real-world projects that blend **Frontend + Backend** technologies
-- 🌐 I'm currently building:  
-  `📦 ObsidianPass` - a full-stack password manager  
-  `📘 Blog App` - personal blogging with modern UI  
-- 🌱 Currently sharpening my skills in **DSA, Python, Java, MongoDB, and Cloud Security**
-- 💡 I’m also exploring **browser extensions**, **AI tools**, and **network security**
-- 💬 Ask me about: `Java`, `React`, `MongoDB`, `Firebase`, `Linux`, `Networking`
-- 🧠 Fun Fact: I love debugging as much as I love building.
-
----
-
-### 🛠️ Tech Stack
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,tailwind,mongodb,firebase,linux,git,github,html,css,bash" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F8D847&center=true&vCenter=true&width=435&lines=Crafting+Secure+and+Scalable+Apps;Full-Stack+Developer;Open+Source+Contributor;DSA+and+Cloud+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🌟 About Me
+
+- 🎓 Computer Science graduate with a strong foundation in **Java**, **Python**, and **Web Development**
+- 🔐 Learning Cloud & Network Security with real-world applications
+- 🔧 Building:
+  - 🗝️ [**ObsidianPass**](#) – Secure Password Manager
+  - ✍️ Blog App – For publishing tech write-ups and notes
+- 📚 Focused on mastering **DSA**, **MongoDB**, **React**, and **system design**
+- 🐧 Linux user | CLI enthusiast | Love minimal tools like **Hyprland** and **Astal**
+
+---
+
+## 💼 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthjain-git&show_icons=true&theme=radical" alt="Siddharth's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,tailwind,mongodb,firebase,linux,git,github,bash,docker,vscode,postman,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthjain-git&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddharthjain-git&theme=midnight-purple&hide_border=true&border_radius=20" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthjain-git&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthjain-git&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthjain-git&layout=compact&theme=midnight-purple&hide_border=true&border_radius=20" width="50%" />
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Featured Projects
+
+> Here's a sneak peek of what I'm building:
+
+- 🔐 [**ObsidianPass**](#) – End-to-end encrypted full-stack password manager  
+- 📘 [**BlogApp**](#) – Personal blogging platform using React + Firebase  
+- 🧠 [**Network Anomaly Detector**](#) – ML & Deep Learning-based detection system (with research paper)
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddharthjain-git/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddharthjain.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/siddharthjain-git" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddharthjain-git/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:siddharthjain.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/siddharthjain-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔥 My Favorite Quote
+## 🧠 Fun Fact
 
-> “First, solve the problem. Then, write the code.” — *John Johnson*
+> “The best error message is the one that never shows up.” — *Thomas Fuchs*
 
 ---
 
-*Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful.*
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
