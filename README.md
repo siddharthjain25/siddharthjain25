@@ -1,3 +1,76 @@
+<h1 align="center">Hi there 👋, I'm Siddharth Jain</h1>
+<h3 align="center">A Passionate Computer Science Graduate & Software Developer from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+and+DevOps+Learner;Open+Source+Contributor;Lifelong+Tech+Explorer" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I recently graduated with a B.Tech in **Computer Science**
+- 💼 I enjoy working on real-world projects that blend **Frontend + Backend** technologies
+- 🌐 I'm currently building:  
+  `📦 ObsidianPass` - a full-stack password manager  
+  `📘 Blog App` - personal blogging with modern UI  
+- 🌱 Currently sharpening my skills in **DSA, Python, Java, MongoDB, and Cloud Security**
+- 💡 I’m also exploring **browser extensions**, **AI tools**, and **network security**
+- 💬 Ask me about: `Java`, `React`, `MongoDB`, `Firebase`, `Linux`, `Networking`
+- 🧠 Fun Fact: I love debugging as much as I love building.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,tailwind,mongodb,firebase,linux,git,github,html,css,bash" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthjain-git&show_icons=true&theme=radical" alt="Siddharth's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthjain-git&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthjain-git&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddharthjain-git/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:siddharthjain.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/siddharthjain-git" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔥 My Favorite Quote
+
+> “First, solve the problem. Then, write the code.” — *John Johnson*
+
+---
+
+*Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you find them helpful.*
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
