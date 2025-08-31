@@ -80,6 +80,5 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/siddharthjain25/siddharthjain25/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
