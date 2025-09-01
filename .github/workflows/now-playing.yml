@@ -10,9 +10,15 @@ on:
 jobs:
   update-svg:
     runs-on: ubuntu-latest
+    
+    # Add permissions for the job to be able to write to the repository
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        # Use the latest major version of the checkout action
+        uses: actions/checkout@v4
 
       - name: Update SVG
         run: |
@@ -21,8 +27,19 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          # Configure git for the bot user
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Stage the file
           git add now-playing.svg
-          # The following command will only commit if the file has actually changed
-          git diff --quiet --exit-code now-playing.svg || (git commit -m "Update now-playing.svg" && git push)
+          
+          # Commit and push only if there are staged changes
+          # The `git diff --staged --quiet` command correctly checks for changes in the staging area.
+          # It will exit with 1 if there are changes, and 0 if there are none.
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: Update now-playing.svg"
+            git push
+          else
+            echo "No changes detected in now-playing.svg."
+          fi
