@@ -42,7 +42,7 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 ### 🎧 Now Playing on Spotify
 <div align="center">
 
-[![Spotify Now Playing](https://siddharth25op-spotify-status.vercel.app/api/svg)](https://open.spotify.com/)
+[![Spotify Now Playing](https://siddharth25op-spotify-status.vercel.app/api/svg)](https://open.spotify.com/user/31ys5kl4kn7hug7snlggcitumzja)
 
 </div>
 
