@@ -45,6 +45,7 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 [![Spotify Now Playing](https://siddharth25op-spotify-status.vercel.app/api/svg)](https://open.spotify.com/)
 
 </div>
+
 ---
 
 ### 🚀 My Projects
