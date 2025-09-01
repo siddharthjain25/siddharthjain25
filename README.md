@@ -41,11 +41,10 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 
 ### 🎧 Now Playing on Spotify
 <div align="center">
-  <a href="https://open.spotify.com/user/31ys5kl4kn7hug7snlggcitumzja">
-    <img src="https://siddharth25op-spotify-status.vercel.app/api/svg" height="150"/>
-  </a>
-</div>
 
+[![Spotify Now Playing](https://siddharth25op-spotify-status.vercel.app/api/svg)](https://open.spotify.com/)
+
+</div>
 ---
 
 ### 🚀 My Projects
