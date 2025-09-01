@@ -42,7 +42,7 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 ### 🎧 Now Playing on Spotify
 <div align="center">
   <a href="https://open.spotify.com/user/31ys5kl4kn7hug7snlggcitumzja">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ys5kl4kn7hug7snlggcitumzja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=f399ff&bar_color_cover=true" height="150"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ys5kl4kn7hug7snlggcitumzja&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=f399ff&bar_color_cover=true" height="150"/>
   </a>
 </div>
 
