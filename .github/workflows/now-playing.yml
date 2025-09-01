@@ -1,0 +1,28 @@
+name: Update Spotify Now Playing SVG
+
+on:
+  # This runs the job on a schedule (every 5 minutes)
+  schedule:
+    - cron: '*/5 * * * *'
+  # This allows you to run it manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update SVG
+        run: |
+          # Fetch the latest SVG from your Vercel deployment
+          curl --silent "https://siddharth25op-spotify-status.vercel.app/api/svg" > now-playing.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add now-playing.svg
+          # The following command will only commit if the file has actually changed
+          git diff --quiet --exit-code now-playing.svg || (git commit -m "Update now-playing.svg" && git push)
