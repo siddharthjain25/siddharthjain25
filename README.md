@@ -49,8 +49,8 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 ### 🚀 My Projects
 | Project | Description |
 |---------|-------------|
-| **Velicor** | High-performance log ingestion proxy and telemetry analytics engine. Features GIN indexing, Full-Text Search, service-scoped alerting, and WebSocket live-tail log synchronization. Built with **FastAPI (Python) + PostgreSQL + MongoDB + Redis**, and a fully responsive **React** UI. |
-| **Beacon** | A lightweight real-time event broker and telemetry ingestion server. Offers SSE/WebSocket client streams, AJV payload schema validation, and outbound webhook delivery queues. Built with **Fastify (Node.js) + PostgreSQL + MongoDB + Redis**, accompanied by a **React** dashboard and a native **Node.js CLI**. |
+| **Velicor** | High-performance log ingestion proxy and telemetry analytics engine. Built with **FastAPI + React + PostgreSQL + Redis**. |
+| **Beacon** | Lightweight real-time message broker and event stream server. Built with **Fastify + React + PostgreSQL + Redis**. |
 | **PhishWatch** | Detects phishing websites in real-time using Google Generative AI. Built with **Next.js + Tailwind + TypeScript**. |
 | **Obsidian Pass** | Full-stack password manager with client-side **AES encryption** & **bcrypt** authentication. |
 | **Blog App** | Blogging platform with CRUD, role-based access, and rich text editor. Built using **React + Firebase + MongoDB**. |
