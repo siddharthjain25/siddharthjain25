@@ -12,9 +12,9 @@
 A Computer Science graduate passionate about **systems programming, low-latency infrastructure, and security**.  
 I have hands-on experience with **full-stack development** and **cloud platforms (AWS)**, and I’m eager to contribute to **high-performance environments** through efficient code and technical excellence.
 
-- 🔭 Currently building full-stack apps with **React.js, Node.js, MongoDB** deployed on **AWS**  
-- 🌱 Exploring **Cybersecurity** (secure networks, common vulnerabilities)  
-- 💬 Ask me about **AWS, MERN Stack, Systems Programming, Cybersecurity**  
+- 🔭 Currently building low-latency telemetry systems and real-time event infrastructure (**FastAPI, Fastify, PostgreSQL, Redis**)  
+- 🌱 Exploring **Cybersecurity** (secure networks, systems programming, and common vulnerabilities)  
+- 💬 Ask me about **AWS, Fastify, FastAPI, Systems Programming, Databases, and Cybersecurity**  
 - 📫 Reach me: **siddharth25op@gmail.com**
 
 ---
@@ -49,6 +49,8 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 ### 🚀 My Projects
 | Project | Description |
 |---------|-------------|
+| **Velicor** | High-performance log ingestion proxy and telemetry analytics engine. Features GIN indexing, Full-Text Search, service-scoped alerting, and WebSocket live-tail log synchronization. Built with **FastAPI (Python) + PostgreSQL + MongoDB + Redis**, and a fully responsive **React** UI. |
+| **Beacon** | A lightweight real-time event broker and telemetry ingestion server. Offers SSE/WebSocket client streams, AJV payload schema validation, and outbound webhook delivery queues. Built with **Fastify (Node.js) + PostgreSQL + MongoDB + Redis**, accompanied by a **React** dashboard and a native **Node.js CLI**. |
 | **PhishWatch** | Detects phishing websites in real-time using Google Generative AI. Built with **Next.js + Tailwind + TypeScript**. |
 | **Obsidian Pass** | Full-stack password manager with client-side **AES encryption** & **bcrypt** authentication. |
 | **Blog App** | Blogging platform with CRUD, role-based access, and rich text editor. Built using **React + Firebase + MongoDB**. |
@@ -57,7 +59,7 @@ I have hands-on experience with **full-stack development** and **cloud platforms
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,aws,git,github,linux,archlinux,html,css,tailwind,vscode,postman,intellij,pycharm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,fastify,fastapi,postgres,redis,mongodb,mysql,aws,git,github,linux,archlinux,html,css,tailwind,vscode,postman,intellij,pycharm&perline=10" />
 </div>
 
 ---
