@@ -1,0 +1,40 @@
+<svg width="400" height="250" viewBox="0 0 400 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #181825; stroke: #313244; stroke-width: 1.5; }
+    .hdr { font: 700 13px 'JetBrains Mono', monospace; fill: #cba6f7; }
+    .sep { font: 400 13px 'JetBrains Mono', monospace; fill: #585b70; }
+    .key { font: 700 12.5px 'JetBrains Mono', monospace; fill: #89b4fa; }
+    .val { font: 400 12.5px 'JetBrains Mono', monospace; fill: #cdd6f4; }
+  </style>
+  <rect x="1" y="1" width="398" height="248" rx="12" class="card"/>
+  <text x="22" y="32" class="hdr">siddharth@capgemini-alumni</text>
+  <text x="22" y="48" class="sep">──────────────────────────────</text>
+
+  <text x="22" y="72" class="key">Education:</text>
+  <text x="115" y="72" class="val">B.Tech CSE (2025)</text>
+
+  <text x="22" y="96" class="key">Certs:</text>
+  <text x="115" y="96" class="val">AZ-900 · AWS CLF-C02</text>
+
+  <text x="22" y="120" class="key">Focus:</text>
+  <text x="115" y="120" class="val">Backend &amp; Event Streaming</text>
+
+  <text x="22" y="144" class="key">Homelab:</text>
+  <text x="115" y="144" class="val">RPi 4 · Docker · Tailscale</text>
+
+  <text x="22" y="168" class="key">Shell:</text>
+  <text x="115" y="168" class="val">fish + Hyprland / KDE</text>
+
+  <text x="22" y="192" class="key">Theme:</text>
+  <text x="115" y="192" class="val">Catppuccin Mocha</text>
+
+  <!-- Catppuccin Palette Swatches -->
+  <rect x="22" y="212" width="24" height="14" rx="3" fill="#f38ba8"/>
+  <rect x="52" y="212" width="24" height="14" rx="3" fill="#fab387"/>
+  <rect x="82" y="212" width="24" height="14" rx="3" fill="#f9e2af"/>
+  <rect x="112" y="212" width="24" height="14" rx="3" fill="#a6e3a1"/>
+  <rect x="142" y="212" width="24" height="14" rx="3" fill="#94e2d5"/>
+  <rect x="172" y="212" width="24" height="14" rx="3" fill="#89b4fa"/>
+  <rect x="202" y="212" width="24" height="14" rx="3" fill="#cba6f7"/>
+  <rect x="232" y="212" width="24" height="14" rx="3" fill="#f5c2e7"/>
+</svg>

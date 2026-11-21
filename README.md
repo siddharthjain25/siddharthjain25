@@ -121,7 +121,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/siddharthjain25">
-        <img src="./assets/card-ai-agent.svg" width="100%" alt="Amalee-Agent — Privacy-First Local AI Voice Assistant" />
+        <img src="./assets/card-ai-agent.svg" width="100%" alt="AI-Agent — Privacy-First Local AI Voice Assistant" />
       </a>
     </td>
     <td width="50%" valign="top">

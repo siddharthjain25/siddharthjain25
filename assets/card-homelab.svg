@@ -1,0 +1,40 @@
+<svg width="440" height="225" viewBox="0 0 440 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #181825; stroke: #313244; stroke-width: 1.5; }
+    .accent { fill: #fab387; }
+    .title { font: 700 18px 'JetBrains Mono', monospace; fill: #cdd6f4; }
+    .sub { font: 600 12px 'JetBrains Mono', monospace; fill: #fab387; }
+    .desc { font: 400 12.5px sans-serif; fill: #a6adc8; }
+    .item { font: 400 12px 'JetBrains Mono', monospace; fill: #bac2de; }
+    .tag-bg { fill: #313244; }
+    .tag-txt { font: 600 11px 'JetBrains Mono', monospace; fill: #f9e2af; }
+  </style>
+  <rect x="1" y="1" width="438" height="223" rx="12" class="card"/>
+  <path d="M1 13C1 6.37258 6.37258 1 13 1H427C433.627 1 439 6.37258 439 13V15H1V13Z" class="accent"/>
+
+  <text x="22" y="42" class="title">⌘ Homelab &amp; IoT</text>
+  <text x="22" y="62" class="sub">Self-Hosted Infrastructure &amp; Physical Computing</text>
+  <text x="22" y="86" class="desc">Personal ecosystem built on open-source tools and hardware.</text>
+
+  <text x="22" y="112" class="item">▸ Raspberry Pi 4 + Docker + Tailscale</text>
+  <text x="22" y="131" class="item">▸ n8n automated workflows &amp; Traefik</text>
+  <text x="22" y="150" class="item">▸ ESP32, NFC triggers &amp; sensor nodes</text>
+
+  <rect x="22" y="175" width="54" height="24" rx="6" class="tag-bg"/>
+  <text x="49" y="191" text-anchor="middle" class="tag-txt">Linux</text>
+
+  <rect x="84" y="175" width="60" height="24" rx="6" class="tag-bg"/>
+  <text x="114" y="191" text-anchor="middle" class="tag-txt">Docker</text>
+
+  <rect x="152" y="175" width="56" height="24" rx="6" class="tag-bg"/>
+  <text x="180" y="191" text-anchor="middle" class="tag-txt">RPi 4</text>
+
+  <rect x="216" y="175" width="56" height="24" rx="6" class="tag-bg"/>
+  <text x="244" y="191" text-anchor="middle" class="tag-txt">ESP32</text>
+
+  <rect x="280" y="175" width="44" height="24" rx="6" class="tag-bg"/>
+  <text x="302" y="191" text-anchor="middle" class="tag-txt">n8n</text>
+
+  <rect x="332" y="175" width="76" height="24" rx="6" class="tag-bg"/>
+  <text x="370" y="191" text-anchor="middle" class="tag-txt">Tailscale</text>
+</svg>

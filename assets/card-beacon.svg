@@ -1,0 +1,37 @@
+<svg width="440" height="225" viewBox="0 0 440 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #181825; stroke: #313244; stroke-width: 1.5; }
+    .accent { fill: #89b4fa; }
+    .title { font: 700 18px 'JetBrains Mono', monospace; fill: #cdd6f4; }
+    .sub { font: 600 12px 'JetBrains Mono', monospace; fill: #89b4fa; }
+    .desc { font: 400 12.5px sans-serif; fill: #a6adc8; }
+    .item { font: 400 12px 'JetBrains Mono', monospace; fill: #bac2de; }
+    .tag-bg { fill: #313244; }
+    .tag-txt { font: 600 11px 'JetBrains Mono', monospace; fill: #94e2d5; }
+  </style>
+  <rect x="1" y="1" width="438" height="223" rx="12" class="card"/>
+  <path d="M1 13C1 6.37258 6.37258 1 13 1H427C433.627 1 439 6.37258 439 13V15H1V13Z" class="accent"/>
+
+  <text x="22" y="42" class="title">◈ Beacon</text>
+  <text x="22" y="62" class="sub">Real-Time Event Router &amp; Message Broker</text>
+  <text x="22" y="86" class="desc">Lightweight event routing and real-time telemetry platform.</text>
+
+  <text x="22" y="112" class="item">▸ SSE &amp; WebSockets + Redis Pub/Sub</text>
+  <text x="22" y="131" class="item">▸ Dynamic JSON Schema validation</text>
+  <text x="22" y="150" class="item">▸ Reliable webhook delivery with retries</text>
+
+  <rect x="22" y="175" width="64" height="24" rx="6" class="tag-bg"/>
+  <text x="54" y="191" text-anchor="middle" class="tag-txt">Node.js</text>
+
+  <rect x="94" y="175" width="66" height="24" rx="6" class="tag-bg"/>
+  <text x="127" y="191" text-anchor="middle" class="tag-txt">Fastify</text>
+
+  <rect x="168" y="175" width="54" height="24" rx="6" class="tag-bg"/>
+  <text x="195" y="191" text-anchor="middle" class="tag-txt">Redis</text>
+
+  <rect x="230" y="175" width="68" height="24" rx="6" class="tag-bg"/>
+  <text x="264" y="191" text-anchor="middle" class="tag-txt">MongoDB</text>
+
+  <rect x="306" y="175" width="82" height="24" rx="6" class="tag-bg"/>
+  <text x="347" y="191" text-anchor="middle" class="tag-txt">PostgreSQL</text>
+</svg>

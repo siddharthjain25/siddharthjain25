@@ -1,0 +1,6 @@
+<svg width="900" height="44" viewBox="0 0 900 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="6" width="44" height="32" rx="8" fill="#313244"/>
+  <text x="22" y="27" text-anchor="middle" font-family="monospace" font-weight="700" font-size="14" fill="#fab387">04</text>
+  <text x="58" y="28" font-family="monospace" font-weight="700" font-size="18" fill="#cdd6f4">GitHub Analytics</text>
+  <line x1="245" y1="22" x2="900" y2="22" stroke="#313244" stroke-width="2" stroke-dasharray="6 6"/>
+</svg>
