@@ -149,7 +149,7 @@
     </tr>
   </table>
 
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthjain25&theme=catppuccin_mocha&background=181825&border=313244" alt="GitHub Contribution Streak" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthjain25&theme=catppuccin_mocha&background=181825&border_color=313244" alt="GitHub Contribution Streak" />
 
   <br/>
 

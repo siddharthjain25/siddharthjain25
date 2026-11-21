@@ -12,7 +12,7 @@
   <rect x="1" y="1" width="438" height="223" rx="12" class="card"/>
   <path d="M1 13C1 6.37258 6.37258 1 13 1H427C433.627 1 439 6.37258 439 13V15H1V13Z" class="accent"/>
 
-  <text x="22" y="42" class="title">◉ AI-Agent (Amalee)</text>
+  <text x="22" y="42" class="title">◉ AI-Agent</text>
   <text x="22" y="62" class="sub">Privacy-First Local AI Voice Assistant</text>
   <text x="22" y="86" class="desc">Offline voice assistant with natural speech and local tools.</text>
 
