@@ -43,7 +43,7 @@ interests:
   - Linux & Self-Hosted Ecosystems
 ```
 
-- Former Software Engineer at **Capgemini**, working on enterprise backend integration systems and financial-services workflows.
+- Software Engineer at **Capgemini**, working on enterprise backend integration systems and financial-services workflows.
 - Worked with real-time event streaming, Kafka-based processing, cloud deployments, and production microservices.
 - Contributed to systems improvements including **3× higher Kafka throughput** and **30–40 minutes faster batch processing**.
 - Run and experiment with a personal homelab powered by Raspberry Pi, Docker, Tailscale, and open-source software.
