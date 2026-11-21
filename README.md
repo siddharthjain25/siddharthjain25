@@ -133,7 +133,7 @@ A lightweight event routing and telemetry platform supporting real-time communic
 <tr>
 <td width="50%" valign="top">
 
-### ◉ Amalee-Agent
+### ◉ AI-Agent
 **Privacy-First Local AI Voice Assistant**
 
 A local-first voice assistant designed around privacy, natural conversations, and local tool execution.
@@ -178,22 +178,6 @@ Building minimalist, performance-focused web experiences and API integrations.
 - Dark-mode and Catppuccin design systems
 
 `Next.js` `Astro` `TypeScript` `React` `REST APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### ❖ Linux Customization
-**A Personal Linux Environment**
-
-Exploring desktop customization, workflow optimization, and a clean developer experience.
-
-- Fedora and Arch Linux
-- KDE customization
-- Catppuccin Mocha theming
-- Terminal and shell workflows
-- Performance tuning
-
-`Linux` `KDE` `Hyprland` `Fish` `Shell`
 
 </td>
 </tr>
