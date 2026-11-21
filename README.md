@@ -164,23 +164,6 @@ An evolving personal infrastructure ecosystem built around open-source tools and
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◇ Web & Portfolio Engineering
-**Personal Web Ecosystem**
-
-Building minimalist, performance-focused web experiences and API integrations.
-
-- Astro and Next.js portfolio development
-- Spotify Now Playing API integration
-- Custom UI components
-- Dark-mode and Catppuccin design systems
-
-`Next.js` `Astro` `TypeScript` `React` `REST APIs`
-
-</td>
-</tr>
 </table>
 
 ---
